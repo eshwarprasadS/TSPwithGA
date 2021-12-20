@@ -9,7 +9,7 @@ pandas==1.2.3
 matplotlib==3.3.4
 
 # Manual
-TSPwithGA Directory Structure :
+## TSPwithGA Directory Structure :
 
 "TSPwithGAFinal.ipynb" = Primary Notebook, please look into this first.
 
@@ -19,9 +19,9 @@ TSPwithGA Directory Structure :
 
 "requirements.txt" = To install required python packages
 
-The 3 types of Mutation results have been saved into their own Sub-Directories : 
+## The 3 types of Mutation results have been saved into their own Sub-Directories : 
 
-Two trials were run : 
+## Two trials were run : 
 
 "inversion_mutation/results1/"
 
