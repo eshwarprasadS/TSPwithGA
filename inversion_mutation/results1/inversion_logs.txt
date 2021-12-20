@@ -1,0 +1,13 @@
+
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =42278.70172760725
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =44559.404428723254
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =42788.02096939251
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =45695.36457753275
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =40957.327820024795
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =44070.60991352215
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =48206.09888573836
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =41503.41107308543
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =40985.03232008271
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.001, numGenerations =900, Best Distance =41126.08284359962
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.0005, numGenerations =900, Best Distance =48535.88541966659
+populationSize =120, numElite =20, mutationType =inversion, mutationRate =0.0005, numGenerations =900, Best Distance =53326.66637953576

@@ -1,0 +1,13 @@
+
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =43564.075821537386
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =39889.1940624136
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =41840.12029475117
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =40987.624617093126
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =41577.0739860256
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =46725.242092745015
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =43467.80863282348
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =53997.64244845244
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =42422.36569462541
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.001, numGenerations =900, Best Distance =40582.99332235087
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.0005, numGenerations =900, Best Distance =41919.6604398195
+populationSize =120, numElite =20, mutationType =scramble, mutationRate =0.0005, numGenerations =900, Best Distance =56739.5660400433

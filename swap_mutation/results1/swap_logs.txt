@@ -1,0 +1,10 @@
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =34333.36800537344
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =40135.50376005174
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =39365.15777579603
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =38557.61215578913
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =40595.25590952986
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =42585.00097215776
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =42363.77186075286
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =43166.749951744205
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =47284.35557792368
+populationSize =120, numElite =20, mutationType =swap, mutationRate =0.001, numGenerations =900, Best Distance =43815.171483921265
